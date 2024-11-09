@@ -1,0 +1,15 @@
+A:\Эдуард\Мои программы\ReservationTable\bin\Debug\ReservationTable.exe.config
+A:\Эдуард\Мои программы\ReservationTable\bin\Debug\ReservationTable.exe
+A:\Эдуард\Мои программы\ReservationTable\bin\Debug\ReservationTable.pdb
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.csproj.AssemblyReference.cache
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\MainWindow.g.cs
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\App.g.cs
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable_MarkupCompile.cache
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable_MarkupCompile.lref
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\MainWindow.baml
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.g.resources
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.Properties.Resources.resources
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.csproj.GenerateResource.cache
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.csproj.CoreCompileInputs.cache
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.exe
+A:\Эдуард\Мои программы\ReservationTable\obj\Debug\ReservationTable.pdb
